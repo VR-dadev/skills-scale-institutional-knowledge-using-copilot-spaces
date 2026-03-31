@@ -20,6 +20,18 @@ Applies to all cross-functional projects that deliver product features, services
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
 
+## Extended Team Roles
+
+For larger projects or those with specific requirements, the following roles may be added:
+
+- **UX Designer**: Ensures user experience is prioritized in feature design; collaborates with Product and Developers on usability
+- **Business Analyst**: Bridges business requirements and technical execution; supports requirements gathering and test case definition
+- **DevOps Engineer**: Owns infrastructure, automation, and deployment processes; enables fast, reliable releases
+- **Security Lead**: Champions security best practices; conducts reviews and leads incident response
+- **QA/Testing Lead**: Owns quality assurance strategy and test planning; validates features before release
+
+See [Personas](octoacme-roles-and-personas.md) for detailed role descriptions, responsibilities, and interaction patterns.
+
 ## Key Artifacts
 - Project Charter / One-pager
 - Roadmap and Release Plan
